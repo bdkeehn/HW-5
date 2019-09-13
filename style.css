@@ -1,0 +1,29 @@
+body{
+    background: lightblue;
+}
+
+
+h1{
+    color: blue;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#questions{
+    text-align: center;
+    color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#done{
+    text-align: center;
+    padding: 20px;
+    background: red;
+    width: 20%;
+    margin-left:38%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2{
+    text-align: center;
+      font-family: 'Roboto Condensed', sans-serif;
+
+}
